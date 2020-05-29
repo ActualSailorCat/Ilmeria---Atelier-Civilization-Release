@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="94088240-b93c-4414-b6c3-da4d1e093ca2" version="1">
+  <Properties>
+    <Name>[COLOR:ResScienceLabelCS]Ilmeria[ENDCOLOR] - Atelier Civilization</Name>
+    <Description>Adds Ilmeria as an alternative leader of the Atelier Civilization.</Description>
+    <Created>1590718193</Created>
+    <Teaser>Adds Ilmeria to the Atelier Civilization.</Teaser>
+    <Authors>SailorCat</Authors>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <ActionCriteria>
+    <Criteria id="XP1">
+      <GameCoreInUse>Expansion1</GameCoreInUse>
+    </Criteria>
+    <Criteria id="XP2">
+      <GameCoreInUse>Expansion2</GameCoreInUse>
+    </Criteria>
+    <Criteria id="XP1 or XP2" any="1">
+      <GameCoreInUse>Expansion1,Expansion2</GameCoreInUse>
+    </Criteria>
+    <Criteria id="DLC1" any="1">
+      <LeaderPlayable>Players:StandardPlayers::LEADER_JADWIGA,StandardPlayers::LEADER_JADWIGA,Players:Expansion1_Players::LEADER_JADWIGA,Players:Expansion2_Players::LEADER_JADWIGA</LeaderPlayable>
+    </Criteria>
+    <Criteria id="DLC3" any="1">
+      <LeaderPlayable>Players:StandardPlayers::LEADER_JOHN_CURTIN,StandardPlayers::LEADER_JOHN_CURTIN,Players:Expansion1_Players::LEADER_JOHN_CURTIN,Players:Expansion2_Players::LEADER_JOHN_CURTIN</LeaderPlayable>
+    </Criteria>
+    <Criteria id="DLC4" any="1">
+      <LeaderPlayable>Players:StandardPlayers::LEADER_ALEXANDER,Players:StandardPlayers::LEADER_CYRUS,StandardPlayers::LEADER_ALEXANDER,StandardPlayers::LEADER_CYRUS,Players:Expansion1_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS,Players:Expansion2_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS</LeaderPlayable>
+    </Criteria>
+    <Criteria id="DLC5" any="1">
+      <LeaderPlayable>Players:StandardPlayers::LEADER_AMANITORE,StandardPlayers::LEADER_AMANITORE,Players:Expansion1_Players::LEADER_AMANITORE,Players:Expansion2_Players::LEADER_AMANITORE</LeaderPlayable>
+    </Criteria>
+    <Criteria id="DLC6" any="1">
+      <LeaderPlayable>Players:StandardPlayers::LEADER_GITARJA,Players:StandardPlayers::LEADER_JAYAVARMAN,StandardPlayers::LEADER_GITARJA,StandardPlayers::LEADER_JAYAVARMAN,Players:Expansion1_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN,Players:Expansion2_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN</LeaderPlayable>
+    </Criteria>
+    <Criteria id="DLC7" any="1">
+      <LeaderPlayable>Players:StandardPlayers::LEADER_SIMON_BOLIVAR,Players:StandardPlayers::LEADER_LADY_SIX_SKY,StandardPlayers::LEADER_SIMON_BOLIVAR,StandardPlayers::LEADER_LADY_SIX_SKY,Players:Expansion1_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY,Players:Expansion2_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY</LeaderPlayable>
+    </Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateDatabase id="ilmeria_config">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File>Core/SAILOR_Ilmeria_Config.sql</File>
+    </UpdateDatabase>
+    <UpdateText id="ilmeria_txt">
+      <File>Core/SAILOR_Ilmeria_Text.xml</File>
+    </UpdateText>
+    <UpdateColors id="ilmeria_colors">
+      <Properties>
+        <LoadOrder>1778</LoadOrder>
+      </Properties>
+      <File>Core/SAILOR_Ilmeria_Colors.sql</File>
+    </UpdateColors>
+    <UpdateArt id="ilmeria_art">
+      <File>Ilmeria.dep</File>
+    </UpdateArt>
+    <UpdateIcons id="ilmeria_icons">
+      <File>Icons/SAILOR_Ilmeria_Icons.xml</File>
+    </UpdateIcons>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="ilmeria_db">
+      <Properties>
+        <LoadOrder>1779</LoadOrder>
+      </Properties>
+      <File>Core/SAILOR_Ilmeria_Defines.sql</File>
+      <File>Core/SAILOR_Ilmeria_Traits.sql</File>
+      <File>Core/SAILOR_Ilmeria_Agenda.sql</File>
+      <File>Core/SAILOR_Ilmeria_AI.sql</File>
+    </UpdateDatabase>
+    <UpdateArt id="ilmeria_art">
+      <File>Ilmeria.dep</File>
+    </UpdateArt>
+    <UpdateIcons id="ilmeria_icons">
+      <File>Icons/SAILOR_Ilmeria_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateText id="ilmeria_txt">
+      <Properties>
+        <LoadOrder>1779</LoadOrder>
+      </Properties>
+      <File>Core/SAILOR_Ilmeria_Text.xml</File>
+    </UpdateText>
+    <UpdateColors id="ilmeria_colors">
+      <Properties>
+        <LoadOrder>1779</LoadOrder>
+      </Properties>
+      <File>Core/SAILOR_Ilmeria_Colors.sql</File>
+    </UpdateColors>
+    <AddGameplayScripts id="ilmeria_lua">
+      <Properties>
+        <LoadOrder>1779</LoadOrder>
+      </Properties>
+      <File>Core/Lua/SAILOR_Ilmeria_Functions.lua</File>
+    </AddGameplayScripts>
+    <UpdateDatabase id="ilmeria_xp2">
+      <Properties>
+        <LoadOrder>1779</LoadOrder>
+      </Properties>
+      <Criteria>XP2</Criteria>
+      <File>Core/SAILOR_Ilmeria_XP2.sql</File>
+    </UpdateDatabase>
+    <UpdateDatabase id="ilmeria_xp1">
+      <Properties>
+        <LoadOrder>1779</LoadOrder>
+      </Properties>
+      <Criteria>XP1</Criteria>
+      <File>Core/SAILOR_Ilmeria_XP1.sql</File>
+    </UpdateDatabase>
+    <UpdateDatabase id="ilmeria_xp_any">
+      <Properties>
+        <LoadOrder>1779</LoadOrder>
+      </Properties>
+      <Criteria>XP1 or XP2</Criteria>
+      <File>Core/SAILOR_Ilmeria_XP_Any.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>Artdefs/LeaderFallbacks.artdef</File>
+    <File>Artdefs/Leaders.artdef</File>
+    <File>Core/Lua/SAILOR_Ilmeria_Functions.lua</File>
+    <File>Core/SAILOR_Ilmeria_Agenda.sql</File>
+    <File>Core/SAILOR_Ilmeria_AI.sql</File>
+    <File>Core/SAILOR_Ilmeria_Colors.sql</File>
+    <File>Core/SAILOR_Ilmeria_Config.sql</File>
+    <File>Core/SAILOR_Ilmeria_Defines.sql</File>
+    <File>Core/SAILOR_Ilmeria_Text.xml</File>
+    <File>Core/SAILOR_Ilmeria_Traits.sql</File>
+    <File>Core/SAILOR_Ilmeria_XP1.sql</File>
+    <File>Core/SAILOR_Ilmeria_XP2.sql</File>
+    <File>Core/SAILOR_Ilmeria_XP_Any.sql</File>
+    <File>Icons/SAILOR_Ilmeria_Icons.xml</File>
+    <File>Ilmeria.dep</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>XLPs/Atlas.xlp</File>
+    <File>XLPs/LeaderFallbacks.xlp</File>
+    <File>XLPs/UILeaders.xlp</File>
+  </Files>
+</Mod>
