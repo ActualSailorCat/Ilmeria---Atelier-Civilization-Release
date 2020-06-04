@@ -5,7 +5,7 @@
 -- Types
 -----------------------------------------------	
 INSERT INTO Types	
-		(Type,					Kind)
+		(Type,						Kind)
 VALUES	('LEADER_SAILOR_ILMERIA',	'KIND_LEADER');
 
 -----------------------------------------------	
