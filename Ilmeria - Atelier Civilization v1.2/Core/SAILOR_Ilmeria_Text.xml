@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_LEADER_SAILOR_ILMERIA_NAME">
+			<Text>Ilmeria</Text>
+		</Row>
+		
+		<!--UA-->
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_ILMERIA_UA_NAME">
+			<Text>Industrious Genius</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_ILMERIA_UA_DESCRIPTION">
+			<Text>Earning a [ICON_TechBoosted] Eureka for a technology that reveals a strategic resource automatically reveals that resource. Upon completion, [ICON_DISTRICT_CAMPUS] Campus and [ICON_DISTRICT_INDUSTRIAL_ZONE] Industrial Zone buildings grant a burst of [Icon_GreatPerson] Great Person points for each Atelier improvement within two tiles.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAILOR_ILMERIA_UA_XP_DESCRIPTION">
+			<Text>Earning a [ICON_TechBoosted] Eureka for a technology that reveals a strategic resource automatically reveals that resource. Upon completion, [ICON_DISTRICT_CAMPUS] Campus and [ICON_DISTRICT_INDUSTRIAL_ZONE] Industrial Zone buildings grant a burst of [Icon_GreatPerson] Great Person points for each Atelier improvement within two tiles. Units trained in cities with high-adjacency districts of these types gain 25% more experience in combat.</Text>
+		</Row>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SAILOR_ILMERIA">
+			<Text>
+				Lead with grit and ingenuity, Ilmeria Von Leinweber! For the greatest alchemy genius of your day, no order is too tall, no recipe too complex. You know better than anyone that genius is part-inspiration, part-perspiration, so it falls on your shoulders to better your civilization by way of hard work and talent. Synthesize your way into the annals of history!
+			</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_TITLE">
+			<Text>Ilmeria</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_SUBTITLE">
+			<Text>Ilmeria Von Leinweber</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_QUOTE">
+			<Text>
+				But wherever you go, and whatever you see, in the end make sure you come back to me.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_CHAPTER_HISTORY_PARA_1">
+			<Text>
+			Ilmeria Von Leinweber was born into one of the Three Great Houses of Alchemy, which promised a childhood of rigorous training under a father who wished to see his legacy carried forward by his daughter. By her account, his tutelage was strict and particular yet effective.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_CHAPTER_HISTORY_PARA_2">
+			<Text>
+				Ilmeria first makes an appearance in the game Atelier Firis: The Alchemist and the Mysterious Journey, where she's heading to Reisenberg to take her alchemist's exam. Throughout the game, a friendly rivalry blooms between Firis and Ilmeria, during which players learn of Ilmeria's struggles with the weight of her family's expectations.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_CHAPTER_HISTORY_PARA_3">
+			<Text>
+				"I'm the greatest alchemy genius of our day!" This is how she first introduces herself in Atelier Firis, and it would seem she isn't just blowing hot air. In Flussheim, Ilmeria demonstrates her expertise in alchemy. Later still, in the exam in Reisenberg. This introduction also illustrates one of her most salient traits: her prideful nature. Through her interactions, Ilmeria ultimately paints herself with flattering colors. She's prideful, but she's earned it through hard work, and she ultimately cares about others. Players also come to learn that she has a secret affinity for cute things.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_CHAPTER_HISTORY_PARA_4">
+			<Text>
+			In her ending in Atelier Firis, Ilmeria forges her own path by opening an atelier in Flussheim. Having also forged a strong bond with Firis, she recruits her friend to join her in this endeavor. This ending is ultimately confirmed as canon in Ilmeria's next appearance, Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_CHAPTER_HISTORY_PARA_5">
+			<Text>
+				In Atelier Lydie &amp; Suelle, Ilmeria has been summoned by the royal family to take on an official role as alchemist. She's quickly swept up by the twins' to teach them in their quest to become alchemists. Throughout the course of the game, Ilmeria exhibits both an interest in their progress and a mind for their well-being. She goes out of her way to devise studies suitable to the unique needs of each twin, and steps in when she feels they need direct intervention. However, this never fully belies her strict nature.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_CHAPTER_HISTORY_PARA_6">
+			<Text>
+				In their events, the twins soon discover Ilmeria's predilection for cute things, and the cute manner she'll assume when her bearing is threatened. To Ilmeria's continual dismay, they take regular advantage of this knowledge, but she continues to teach and care for them.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_CHAPTER_HISTORY_PARA_7">
+			<Text>
+				As Atelier Lydie &amp; Suelle progresses, players discover the breadth of the success Ilmeria has found in striking out on her own. She's earned her parents' respect on her own terms, pens a textbook on alchemy, and her having been personally summoned by the royal family of Adalet gives further credence to the rapport she's achieved.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_CHAPTER_HISTORY_PARA_8">
+			<Text>
+				Players also discover that the atelier Ilmeria opened with her good friend Firis didn't turn out well—that Firis' wanderlust was too much to resist. Firis was, "Like a tuna, unable to stay in one place." However, Ilmeria shows clemency and understanding when Firis shows up to apologize. Ilmeria only wishes to see Firis' puni-like smile, and wherever she goes, for Firis to return to her in the end. Later, Firis presents Ilmeria with a teleportation ring that will allow the two to visit one another no matter the distance that separates them. With this, Firis promises to always come back to Ilmeria, and Ilmeria wholeheartedly accepts the strength of her feelings.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_ILMERIA_CHAPTER_HISTORY_PARA_9">
+			<Text>
+				As the game draws to a close, players witness Ilmeria's swelling pride in Lydie and Suelle. What's more, players get a glimpse of her uncertainty as a teacher, which stems from a genuine desire to see her students prosper. This culminates in a gesture of appreciation by the twins: a gift of heart-shaped philosopher's stones.
+			</Text>
+		</Row>
+		
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>I am Ilmeria Von Leinweber, nothing less than a genius-level alchemist!</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>There's a quiet café by the name of Bistro Riviere where we can snack on dona cake and tea. It'd be an honor to join me.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Let's see it then.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Flussheim is a lakeside city of sun-bathed cobblestone and shimmering waters, where mercenaries and tourists alike kick back on their way to and from their next adventure. I ran an atelier there for a time. And your capital? </Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Here you are again.</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>You're right to honor the scion of one of the Three Great Houses of Alchemy.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>I have neither the time nor the room for unctuous representatives in my atelier.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>A basket brimming with palm-sized punis and cauldron-stirred crokenbuffe treats should arrive shortly.</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>You may. Mind your manners, and the monsters.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>And risk the harm you'd inflict upon my students? I don't think so.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Allowing me to traverse your lands would be allowing my presence to better them.</Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>I'm blessed with fine friends and fine students. I hope you'll make both.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>While I do pity you, I can't sink so low as to call you a friend.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Friendly rivalries can go a long way in helping us to better ourselves. Do you too strive to improve?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Great. Bye-bye then.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Oh. Bye-bye then.</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Your civilization would be much better off with a grandmaster alchemist like me in your party.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>If your troops aren't here for a lecture, you should be.</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Fine.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Sweeten the deal, or forget it.</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Hmph! I see you find greatness intimidating.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Hmph! Your mind is as bone-dry and barren as Weist Plain. (Denounces You.)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Hmph! Looks like you need a lesson in pain. Lucky for you, I'm a thorough teacher.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Hmph! Consider yourself fortunate. You'll soon have the privilege of losing to a max-quality one-hit kill, half-critical, twin-powers blitz crystal synthesized by none other than the greatest alchemist of our time.</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>I hope you've learned your lesson.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Hmph. There's still a cache of puni missiles that needs dusting off.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Let's lay down our staffs.</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Maybe... I let my pride get the best of me. Nevertheless, the Leinweber legacy will live on in those who have called me 'teacher'.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Your fate was sealed the moment you challenged me.</Text>
+		</Row>
+
+
+		<!--LEADER AGENDA-->
+		<Row Tag="LOC_AGENDA_SAILOR_ILMERIA_NAME">
+			<Text>Study Hard</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAILOR_ILMERIA_DESCRIPTION">
+			<Text>Ilmeria will strive for a productive scientifically-advanced civilization, and expects the same from other leaders.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_ILMERIA_REASON_HIGH">
+			<Text>(You have high production and science.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_ILMERIA_HIGH">
+			<Text>Ilmeria approves of your productive, educated civilization.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_ILMERIA_REASON_LOW">
+			<Text>(You have low production or science.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_ILMERIA_LOW">
+			<Text>Ilmeria disapproves of your unproductive, uneducated civilization.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>The hard work and study you put into matching my genius is all the more impressive for its impossible goal.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAILOR_ILMERIA_ANY">
+			<Text>Don't let my genius discourage you from bettering yourself and your civilization. There's no shame in being second-best.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
